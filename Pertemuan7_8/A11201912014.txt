@@ -1,0 +1,8 @@
+1. Apakah bisa state karakter player dari idle langsung ke Run?
+2. Apakah bisa state karakter player dari Jump ke Crouch?
+3. Apakah state Crouch dan CrouchingWalk memiliki kesamaan transisi?
+
+Answer:
+1. Tidak
+2. Tidak
+3. Ya
